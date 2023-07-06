@@ -1,0 +1,282 @@
+,1,0
+0,*,['=']
+1,1.8.2.3.2.3.42.2,['fabriquer']
+2,1.8.2.3.2.3.56.2,['présente']
+3,1.8.2.3.3.3.2,['rappeler']
+4,1.8.2.3.3.4.2.3,['juger']
+5,1.8.2.3.3.4.21.4,['juger']
+6,1.8.2.3.3.4.7.4,['pouvoir']
+7,1.8.2.3.3.4.8.2,['devoir']
+8,1.8.2.3.3.4.8.3,['démontre']
+9,1.8.2.3.3.5.1.5,['juger']
+10,120,['1.8.2.3.3.5.1']
+11,18,['1.8.2.3.3.1.3']
+12,1989,['existe']
+13,1997,['fabricer']
+14,2002,['initier']
+15,2004,"['lier', 'confier']"
+16,2006,"['existe', 'indique']"
+17,2008,['rompre']
+18,2009,['passer']
+19,210,['licencier']
+20,24,"['conduire', 'infirmer', 'infirmer']"
+21,26,['infirmer']
+22,31,['renouveler']
+23,6,['1.8.2.3.3.4.8']
+24,7,['infirmer']
+25,84,['1.8.2.3.3.5.10']
+26,9,['infirmer']
+27,Afrique,['indique']
+28,Angleterre,['établir']
+29,France,['distribue']
+30,Paris,['juger']
+31,Rennes,"['juger', 'juger']"
+32,absence,"['relever', 'présente', 'déterminer']"
+33,accord,"['mettre', 'formalise']"
+34,acteur,['pouvoir']
+35,activité,"['réorienter', 'avoir']"
+36,agence,"['conclure', 'accorder', 'confier']"
+37,ailleurs,"['avoir', 'relever', 'spécialiser']"
+38,allégation,['confirmer']
+39,an,"['motiver', 'assigne', 'fixer', 'durer', 'durer', 'augmenter', 'établir', 'confier', 'renouveler', 'conclure', 'résilier', 'nouer', 'durer', 'conclure', 'durer', 'durer', 'établir']"
+40,année,"['signer', 'rapporte', 'réaliser']"
+41,appel,['participer']
+42,arrivée,['informer']
+43,article,['distribue']
+44,attente,"['suspendre', 'immobiliser']"
+45,auteur,"['pouvoir', 'appartenir', 'nouer', 'passer', 'relever', 'définir', 'apposer', 'définir', 'entretenir', 'respecter']"
+46,autre,['lier']
+47,avis,['concrétiser']
+48,avril,['constituer']
+49,baisse,"['prendre', 'prendre']"
+50,besoin,"['satisfaire', 'réaliser', 'satisfaire']"
+51,biais,['commercialise']
+52,ca,['1.8.2.3.3.1.3']
+53,cadre,"['intervenir', 'inscrire', 'décider', 'servir']"
+54,caractère,"['présente', 'présenter', 'tenir']"
+55,caractéristique,"['répondre', 'fabriquer']"
+56,cassation,['maintenir']
+57,cause,"['mettre', 'appeler']"
+58,ce,['opérer']
+59,celui-ci,['présente']
+60,central,['intervenir']
+61,centrale,['nouer']
+62,cessation,"['engager', 'arriver', 'rendre', 'justifier']"
+63,chaleur,['produire']
+64,charge,['mettre']
+65,chiffre,"['diminuer', 'augmenter', 'réaliser', 'pouvoir', 'augmenter', 'avoir', 'réaliser', 'reconstituer']"
+66,circonstance,"['naître', 'voir']"
+67,client,"['présenter', 'interrompre']"
+68,clientèle,['priver']
+69,cocontractant,"['interdire', 'assigne']"
+70,commande,"['passer', 'passer', 'venir', 'passer', 'représenter', 'passer', 'passer', 'interrompre']"
+71,comportement,"['consister', 'justifier', 'reprocher']"
+72,composant,['finir']
+73,compte,"['prendre', 'tenir', 'apprécier', 'tenir', 'déterminer', 'tenir', 'tenir', 'prendre', 'devoir', 'tenir', 'tenir', 'tenir', 'prendre', 'prendre', 'tenir', 'prendre', 'prendre']"
+74,concession,['agir']
+75,concéder,"['souhaiter', 'accorder']"
+76,condition,"['savoir', 'engager']"
+77,configuration,['rendre']
+78,considération,"['prendre', 'prendre']"
+79,conséquent,['compter']
+80,contraire,"['relever', 'appuyer', 'appuyer']"
+81,contrat,"['optimiser', 'rompre', 'déterminer', 'stipule', 'résilier', 'signer', 'limiter', 'signer', 'mettre', 'prévoir', 'mettre', 'relever', 'mettre', 'poursuivre', 'conclure', 'convenir', 'stipule']"
+82,convention,"['renouveler', 'arriver', 'réaliser']"
+83,cour,"['constate', 'constitue', 'signifier', 'estime', 'tenir', 'estime', 'priver', 'relever', 'fixer']"
+84,courriel,['constitue']
+85,courrier,['démontrer']
+86,cours,"['augmenter', 'devoir', 'intervenir']"
+87,critère,['apporter']
+88,créancier,['permettre']
+89,création,['distribue']
+90,date,"['informer', 'séparer', 'entretenir']"
+91,demande,"['retenir', 'retenir']"
+92,demandeur,['pouvoir']
+93,dernier,"['commettre', 'réclamer']"
+94,difficulté,['justifier']
+95,diminution,"['constater', 'réclamer']"
+96,disposition,['respecter']
+97,distributeur,"['exister', 'informe', 'cesse', 'cesse', 'imposer', 'imposer', 'imposer', 'fabriquer', 'fabriquer', 'informe']"
+98,distribution,"['consacrer', 'consacrer']"
+99,dizaine,['établir']
+100,document,['venir']
+101,donneur,"['mettre', 'exercer']"
+102,doublement,['prétendre']
+103,droit,['modifier']
+104,durée,"['avoir', 'signer', 'informer', 'préciser', 'établir', 'juger', 'juger', 'juger', 'juger', 'confirmer', 'confirmer', 'juger', 'devoir', 'juger', 'devoir', 'juger', 'devoir', 'juger', 'juger', 'devoir', 'tenir', 'juger', 'juger', 'juger', 'devoir', 'tenir', 'juger', 'fixer', 'juger', 'juger', 'prendre', 'apprécier', 'juger', 'prendre', 'juger', 'juger', 'juger', 'avoir', 'juger', 'juger', 'établir', 'déterminer', 'juger', 'juger', 'apprécier', 'juger', 'ricochet', 'juger', 'juger', 'juger', 'devoir', 'tenir', 'confirmer', 'juger', 'juger', 'confirmer', 'fixer', 'juger', 'doubler', 'juger', 'calculer', 'juger', 'juger', 'avoir', '1.8.2.3.3.5.17.4', 'prendre']"
+105,débouché,['chercher']
+106,début,"['mettre', 'tourner', 'informer', 'passer']"
+107,décembre,['rompre']
+108,décision,"['priver', 'appuyer', '1.8.2.3.3.4.9.4', 'appuyer', 'juger']"
+109,défaut,['noue']
+110,définition,['correspondre']
+111,délai,"['pouvoir', 'constituer', 'apprécier']"
+112,dépit,['exister']
+113,désorganisation,"['remédier', 'remédier']"
+114,détermination,"['devoir', 'prendre']"
+115,effet,"['parvenir', 'rapporte']"
+116,effort,['nonobster']
+117,elle-,['indiquer']
+118,en,"['indique', 'déduire']"
+119,engagement,['renouveler']
+120,entrepreneur,['reprocher']
+121,entreprise,"['permettre', 'permettre', 'permettre']"
+122,envoi,"['diminuer', 'compter']"
+123,erreur,['=']
+124,espagnol,['fabriquer']
+125,espèce,"['limiter', 'démontre', 'démontre', 'démontre', 'tenir', 'inscrire']"
+126,exclusivité,"['stipule', 'mettre', 'bénéficier', 'tenir', 'tenir', 'stipule', 'mettre', 'bénéficier']"
+127,exercice,['réaliser']
+128,existence,['exclure']
+129,expiration,"['mettre', 'mettre']"
+130,exécution,['poursuivre']
+131,fabricant,['assigne']
+132,fabriquer,['parvenir']
+133,faire,['pouvoir']
+134,fait,"['démontre', 'avoir', 'tenir', 'prendre']"
+135,faute,"['démontrer', 'constituer', 'permettre', 'tenir']"
+136,fin,"['conclure', 'mettre', 'mettre', 'compter', 'mettre', 'prendre', 'mettre', 'poursuivre', 'conclure', 'prendre', 'mettre']"
+137,finalité,"['avoir', 'avoir']"
+138,fonction,"['apprécier', 'déterminer', 'déterminer', 'apprécier']"
+139,force,['caractéristiquer']
+140,fournisseur,"['informe', 'coexister', 'passer', 'démontre', 'augmenter', 'devoir', 'pouvoir', 'trouver', 'trouver', 'informe']"
+141,fourniture,"['mettre', 'avoir', 'porte', 'porter']"
+142,franchiseur,['imposer']
+143,franchisé,"['exiger', 'réaliser']"
+144,février,['conclure']
+145,gamme,['distribuer']
+146,gravité,['présente']
+147,habitude,['avoir']
+148,hiver,['commercialiser']
+149,hôtellerie,['destiner']
+150,il,"['retenir', 'pouvoir', 'pouvoir', 'distribuer', 'démontrer', 'ajouter', 'ajouter', 'pouvoir', 'constituer']"
+151,impossibilité,['trouver']
+152,incident,['devoir']
+153,inconvénient,['pallier']
+154,indemnité,['alloue']
+155,instruction,['fabriquer']
+156,invention,['commercialise']
+157,investissement,"['amortir', 'justifier', 'amortir']"
+158,jeu,['mettre']
+159,juge,"['relever', 'estimer', 'opérer', 'conduire', 'constater', 'tenir', 'relever', 'appuyer', 'relever', 'retenir', 'appuyer', 'retenir', 'relever', 'prendre', 'apprécier', 'rappeler', 'tenir', 'décider', 'fixer', 'estimer', 'estimer']"
+160,juillet,['prendre']
+161,juin,"['rompre', 'écrire']"
+162,le,"['lier', 'lier', 'priver', 'mettre', 'atteindre', 'distribuer', 'qualifier']"
+163,lequel,"['constituer', 'avoir', 'réaliser', 'devoir']"
+164,lettre,['écrire']
+165,lieu,"['avoir', 'avoir']"
+166,litige,['noue']
+167,livraison,['tenir']
+168,lui,"['annoncer', 'imposer', 'apprécier', 'signer', 'fournir', 'juger', 'présenter', 'invoque', 'conserver', 'permettre', 'alléguer', 'rapporte', 'avoir', 'entretenir', 'démontre', 'nouer', 'rompre', 'entretenir', 'existe', 'produire', 'prétendre', 'enquérir', 'passer', 'démontre', 'existe', 'réaliser', 'passer', 'démontre', 'notifier', 'confier', 'entretenir', 'avoir', 'pouvoir', 'devoir', 'permettre', 'apporte', 'convenir', 'apprécier']"
+169,lui-même,['fabriquer']
+170,là,['réaliser']
+171,l’,['assigne']
+172,magasin,['vendre']
+173,mail,['réitérer']
+174,maintien,['rendre']
+175,manière,['augmenter']
+176,manquement,"['commettre', 'commettre', 'décider']"
+177,marchandise,['causer']
+178,marché,"['trouver', 'offrir', 'avoir']"
+179,marque,"['commercialise', 'fournir', 'vendre', 'fabriquer', 'distribuer', 'fabriquer', 'justifier', 'distribuer']"
+180,mars,"['interdire', 'informe']"
+181,mise,['coudre']
+182,modification,['mettre']
+183,mois,"['suspendre', 'juger', 'juger', 'réduire', 'effectuer', 'fixer', 'fixer', 'calculer']"
+184,moment,['apprécier']
+185,montant,['progresser']
+186,nature,"['dépendre', 'dépendre']"
+187,non-renouvellement,['déduire']
+188,novembre,['intervenir']
+189,objet,['avoir']
+190,obligation,"['justifier', 'commettre', 'commettre']"
+191,office,['relever']
+192,ordre,"['réaliser', 'honorer']"
+193,org.freeplane.plugin.script,['=']
+194,où,"['destiner', 'entretenir']"
+195,paiement,['exiger']
+196,parallèle,['poursuivre']
+197,part,"['produire', 'devoir']"
+198,partenaire,"['trouver', 'démontre', 'fabriquer', 'réaliser', 'assigne', 'prévenir', 'trouver']"
+199,partie,['affecter']
+200,party,"['réussir', 'réaliser', 'conclure', 'citer', 'citer', 'prévoir', 'savoir', 'avoir', 'réaliser', 'entretenir']"
+201,pays,['redistribuer']
+202,perte,"['démontre', 'pallier']"
+203,place,"['mettre', 'mettre']"
+204,plus,['connaître']
+205,point,"['infirmer', 'infirmer', 'infirmer', 'confirmer', 'infirmer', 'confirmer', 'confirmer', 'confirmer', 'confirmer', 'confirmer', 'confirmer', 'infirmer', 'confirmer', 'confirmer', 'confirmer', 'confirmer', 'confirmer', 'commencer', 'confirmer', 'confirmer', 'confirmer', 'situe', 'infirmer', 'infirmer', 'confirmer', 'infirmer', 'infirmer', 'confirmer', 'infirmer', 'infirmer', 'confirmer', 'confirmer', 'maintenir', 'infirmer', 'infirmer', 'confirmer', 'confirmer']"
+206,pointPour,"['confirmer', 'confirmer', 'confirmer', 'confirmer']"
+207,poinçon,['démontre']
+208,politique,['contrebalancer']
+209,position,['démontre']
+210,poursuite,"['juger', 'juger']"
+211,premier,['annoncer']
+212,prestataire,"['assigne', 'informe', 'rompre', 'pouvoir', 'réaliser', 'devoir', 'informe']"
+213,prestation,"['conduire', 'mettre', 'suspendre', 'cesser', 'poursuivre', 'poursuivre']"
+214,preuve,"['rapporte', 'rapporte']"
+215,priver,['être']
+216,producteur,['informe']
+217,production,['prouver']
+218,produit,"['commercialise', 'concerner', 'distribue', 'fabriquer', 'réserver', 'constituer', 'répondre', 'distribuer', 'fabriquer', 'fabriquer', 'démontre', 'passer', 'redistribuer', 'fabricer', 'fabriquer', 'réserver']"
+219,préavis,"['rompre', 'notifier', 'écrire', 'constitue', 'accompagner', 'respecter', 'respecter', 'stipuler', 'mettre', 'évaluer', 'appliquer', 'devoir', 'rompre', 'fixer', 'fixer', 'rompre', 'appliquer', 'appliquer', 'réduire', 'respecter', 'bénéficier', 'appeler', 'devoir', 'écrire', 'correspondre', 'correspondre', 'correspondre', 'devoir', 'devoir', 'résilier', 'anticiper', 'rompre', 'prendre', 'juger', 'porter']"
+220,préjudice,['apprécier']
+221,péril,['mettre']
+222,période,"['intervenir', 'renouveler', 'trouver', 'correspondre']"
+223,que,"['prétendre', 'représenter', 'ajouter', 'réclamer', 'ajouter', 'entretenir', 'situe', 'justifier', 'porter']"
+224,quel,"['ajouter', 'ajouter']"
+225,qui,"['conduire', 'lier', 'lier', 'constitue', 'mettre', 'dépendre', 'commettre', 'suspendre', 'alloue', 'évaluer', 'permettre', 'confier', 'durer', 'exclure', 'admettre', 'réaliser', 'entretenir', 'pouvoir', 'fabrique', 'prendre', 'dépendre']"
+226,qu’,"['imposer', 'apprécier', 'affecter', 'accepter', 'juger', 'conserver', 'alléguer', 'entretenir', 'nouer', 'réaliser', 'constituer', 'participer', 'cesse', 'apprécier']"
+227,qu’«il,['stipuler']
+228,raison,"['noue', 'appeler']"
+229,rapport,['réaliser']
+230,regard,"['apprécier', 'apprécier', 'apprécier', 'relever', 'apprécier', 'apprécier']"
+231,relation,"['exister', 'rompre', 'mettre', 'diminuer', 'mettre', 'formalise', 'rompre', 'écrire', 'rompre', 'prendre', 'présenter', 'durer', 'appeler', 'entretenir', 'entretenir', 'entretenir', 'mettre', 'écrire', 'agir', 'inscrire', 'durer', 'entretenir', 'poursuivre', 'durer', 'durer', 'porte', 'développe', 'entretenir', 'porter']"
+232,relecture,['redresser']
+233,reprise,['avoir']
+234,responsabilité,"['engager', 'admettre']"
+235,revanche,['démontrer']
+236,rupture,"['contester', 'constitue', 'justifier', 'justifier', 'résulter', 'exprimer', 'devoir', 'justifier', 'justifier', 'invoquer', 'subir', 'écrire', 'intervenir', 'intervenir', 'augmenter', 'pouvoir', 'naître', 'condamner', 'intervenir', 'avoir', 'assigne', 'résulter']"
+237,réalité,['exister']
+238,réclamation,['recevoir']
+239,réorganisation,"['limiter', 'rendre']"
+240,réparation,['assigne']
+241,répercussion,['avoir']
+242,résiliation,"['notifier', 'justifier']"
+243,secteur,"['embaucher', 'établir']"
+244,sens,['écrire']
+245,situation,"['mettre', 'adapter']"
+246,société,"['commercialise', 'distribue', 'réaliser', 'être', 'commercialise', 'écrire', 'remplacer', 'avoir', 'passer', 'conclure', 'entretenir', 'entretenir', 'enregistrer', 'indique', 'confier', 'confier', 'distribue', 'développe']"
+247,soin,['établir']
+248,solution,"['disposer', 'rechercher']"
+249,sorte,['conduire']
+250,souplesse,['apporte']
+251,sous-traitant,['exercer']
+252,stock,['correspondre']
+253,structure,['toucher']
+254,substitution,['imposer']
+255,suite,['assigne']
+256,suivi,['charger']
+257,supermarché,['fournir']
+258,tacite,['renouveler']
+259,temps,['avoir']
+260,terme,"['mettre', 'permettre', 'mettre', 'poursuivre']"
+261,titre,['relever']
+262,totalité,['infirmer']
+263,transporteur,"['entretenir', 'réaliser', 'effectuer', 'commettre', 'assigne', 'entretenir']"
+264,un,"['notifier', 'agir', 'trouver']"
+265,unité,['comprendre']
+266,vente,"['optimiser', 'spécialiser', 'intervenir', 'spécialiser']"
+267,victime,"['justifier', 'rapporte', 'prétendre', 'réaliser', 'trouver', 'démontre', 'réaliser', 'démontre', 'trouver', 'démontre', 'trouver', 'intervenir', 'bénéficier', 'pouvoir', 'réaliser', 'imposer']"
+268,voir,"['apprécier', 'apprécier']"
+269,volonté,['savoir']
+270,vue,['conserver']
+271,échange,['invoquer']
+272,échéance,"['parvenir', 'arriver']"
+273,éditeur,"['informe', 'assigne', 'conduire']"
+274,égard,['avoir']
+275,électroménager,['avoir']
+276,élément,['relever']
+277,éponge,['distribuer']
+278,établie,['qualifier']
+279,état,"['apprécier', 'priver', 'démontre', 'emporter']"
+280,œuvre,['mettre']
